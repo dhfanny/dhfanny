@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Fanny Diah</h1>
 
 <p align="center">
-  ✨ special ✨ repository because its README.md appears on your GitHub profile.
+  I am a UI UX developer
 </p>
 
 <p align="center">
