@@ -3,10 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Fanny Diah</h1>
 
 <p align="center">
-  <img src="https://github.com/bintangmayra/bintangmayra/blob/main/profile_picture.png" alt="Bintang Mayra" width="200"/>
-</p>
-
-<p align="center">
   ✨ special ✨ repository because its README.md appears on your GitHub profile.
 </p>
 
