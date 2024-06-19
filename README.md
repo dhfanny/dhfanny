@@ -39,6 +39,6 @@
 <h2>🔗 Links</h2>
 <p>
   <a href="https://github.com/dhfanny">GitHub</a> |
-<!--   <a href="https://blog.bintangmayra.com">Blog</a> |
+  <a href="https://blog.bintangmayra.com">Blog</a> |
   <a href="https://fannydh.netlify.app">Portfolio</a> 
 </p>
