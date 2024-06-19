@@ -17,8 +17,15 @@
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
+  <li>Html</li>
+  <li>Css</li>
   <li>Javascript</li>
   <li>React </li>
+  <li>Php</li>
+  <li>Lumen</li>
+  <li>PostgreSql</li>
+  <li>Postman</li>
+  <li>MYSQL</li>
   <li>Tailwind and bootstraps</li>
 </ul>
 
